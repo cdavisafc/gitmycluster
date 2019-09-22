@@ -8,7 +8,7 @@ data:
       "logs": {
         "metrics_collected": {
           "kubernetes": {
-            "cluster_name": "myfirstcluter",
+            "cluster_name": "myfirstcluster",
             "metrics_collection_interval": 60
           }
         },
